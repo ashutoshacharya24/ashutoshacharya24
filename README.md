@@ -47,4 +47,4 @@ const ashutosh = {
 
 [![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ashutoshacharya24)
 
-[![Ashutosh's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshacharya24&theme=light)](https://github.com/ashutoshacharya24)
+[![Ashutosh's Language Stats]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshacharya24&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashutoshacharya24" />
