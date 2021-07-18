@@ -52,6 +52,5 @@ const ashutosh = {
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/ashutosh-acharya-70190314a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://twitter.com/Ashutos84779312"><img alt="twitter" src="https://img.shields.io/twitter/url?style=social"/></a>
   <a href="mailto:ashutoshacharya24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
