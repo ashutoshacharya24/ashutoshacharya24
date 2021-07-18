@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on:</b> Python, PostgreSQL, Django, Django REST
 - 🌱 I’m currently learning:</b> GoLang, GraphQL
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on contributing to python based projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about:</b> Python and Django
 - 📫 How to reach me: [ashutoshacharya.com](http://ashutoshacharya.com/)
 - 😄 Pronouns: He | Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: It’s all 0’s and 1’s
 
 ## ✨ My Expertise
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
@@ -18,7 +18,7 @@
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code> SQLite
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> DJango
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
-- HTML
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> HTML
 - CSS
 - Bootstrap
 - DRF
