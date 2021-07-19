@@ -30,7 +30,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
 
 
-## 🦸‍ ♂️Little more about me:
+## 🦸‍ Little more about me:
 
 ```python
 from spacetime import SpaceTime
