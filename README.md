@@ -47,10 +47,14 @@ const ashutosh = {
 
 [![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ashutoshacharya24)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshacharya24&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashutoshacharya24" />
+<img src="https://github-readme-stats.vercel.app/api?username={ashutoshacharya24}&theme=blue-green" alt="ashutoshacharya24" />
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/ashutosh-acharya-70190314a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ashutoshacharya24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/ashutosh.acharya.98434/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ashu_liku/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/Ashutos84779312"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/ashutoshacharya24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
