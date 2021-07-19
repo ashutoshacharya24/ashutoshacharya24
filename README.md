@@ -51,7 +51,7 @@ class ashutoshAcharya(SpaceTime):
     def askMeAbout(self):
         return ['Backedn DEV', 'Tech', 'Micro services'] 
 
-    def Database(self):
+    def database(self):
         return ['SQLite3', 'SQL','PostgreSQL']
 
     def architecture(self):
