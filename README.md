@@ -45,9 +45,14 @@ const ashutosh = {
 ## Misc.
 ### Profile Stats.
 
-[![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ashutoshacharya24)
+<img src="" alt="ashutoshacharya24" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&theme=blue-green" alt="ashutoshacharya24" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshacharya24&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashutoshacharya24" /></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&theme=blue-green" alt="ashutoshacharya24" />
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -58,3 +63,4 @@ const ashutosh = {
   <a href="https://twitter.com/Ashutos84779312"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/ashutoshacharya24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshacharya24&label=Profile%20views&color=6805D3&style=flat" alt="ashutoshacharya24" /> </p>
