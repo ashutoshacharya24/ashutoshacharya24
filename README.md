@@ -45,7 +45,6 @@ const ashutosh = {
 ## Misc.
 ### Profile Stats.
 
-<img src="" alt="ashutoshacharya24" />
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&theme=blue-green" alt="ashutoshacharya24" /></td>
