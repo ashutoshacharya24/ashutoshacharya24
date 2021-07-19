@@ -43,7 +43,7 @@ class ashutoshAcharya(SpaceTime):
         return ['Django'] 
     
     def vcs(self):
-        return ['GitHub', GitLab]
+        return ['GitHub', 'GitLab']
         
     def hosting(self):
         return ['Heroku', 'Firebase'] 
