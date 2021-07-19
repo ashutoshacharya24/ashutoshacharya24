@@ -14,10 +14,10 @@ I am Ashutosh Acharya - @ashutoshacharya24
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
-## How I Work
+## 💻 How I Work:
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating(hopefully) just enough process. If I'm too much in my head, feel free to nudge me to share what's in my brain 😁.
 
-## ✨ My Expertise
+## ✨ My Expertise:
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> PostgreSQL
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code> SQLite
@@ -30,7 +30,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
 
 
-## Little more about me:
+## 🦸‍ ♂️Little more about me:
 
 ```python
 from spacetime import SpaceTime
@@ -65,8 +65,7 @@ class ashutoshAcharya(SpaceTime):
     def funFact(self):
         return ['There are two ways to write error-free programs; only the third one works']  
 ```
-## Misc.
-### Profile Stats.
+## 🌟 Misc.
 
 <table>
   <tr>
@@ -76,7 +75,7 @@ class ashutoshAcharya(SpaceTime):
 </table>
 
 
-<h3 align="left">Connect with me:</h3>
+## ✉ Connect with me:
 <div align="left">
    <a href="https://www.linkedin.com/in/ashutosh-acharya-70190314a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:ashutoshacharya24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
