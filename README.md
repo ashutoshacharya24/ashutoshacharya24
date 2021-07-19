@@ -1,6 +1,7 @@
 ## Hi there 👋, Glad to see you here
 
-I am Ashutosh Acharya - @ashutoshacharya24 <p align="left"> <img src="https://img.shields.io/github/followers/ashutoshacharya24.svg?style=social&label=Follow&maxAge=2592000" alt="ashutoshacharya24" /> </p>
+I am Ashutosh Acharya - @ashutoshacharya24 
+<p align="right"> <img src="https://img.shields.io/github/followers/ashutoshacharya24.svg?style=social&label=Follow&maxAge=2592000" alt="ashutoshacharya24" /> </p>
 
 
 
