@@ -47,7 +47,7 @@ const ashutosh = {
 
 [![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ashutoshacharya24)
 
-<img src="https://github-readme-stats.vercel.app/api?username={ashutoshacharya24}&theme=blue-green" alt="ashutoshacharya24" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashutoshacharya24&theme=blue-green" alt="ashutoshacharya24" />
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
