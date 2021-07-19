@@ -27,20 +27,38 @@
 
 ## Little more about me:
 
-```
-const ashutosh = {
-    code: [ "Python"],
-    askMeAbout: ["Backend dev", "tech", "Micro service"],
-    technologies: {
-        backEnd: {
-           python : [“numpy”, “pandas”],
-           framework:[“Django”],
-        },
-        databases: ["SQLite3", "SQL", "PostgreSQL"]
-    },
-    architecture: ["MVT"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```python
+from spacetime import SpaceTime
+
+
+class ashutoshAcharya(SpaceTime):
+
+    def __init__(self):
+        self.name = 'ashutoshacharya'
+
+    def code(self):
+        return ['Python'] 
+        
+    def frameWork(self):
+        return ['Django'] 
+    
+    def vcs(self):
+        return ['GitHub', GitLab]
+        
+    def hosting(self):
+        return ['Heroku', 'Firebase'] 
+
+    def askMeAbout(self):
+        return ['Backedn DEV', 'Tech', 'Micro services'] 
+
+    def Database(self):
+        return ['SQLite3', 'SQL','PostgreSQL']
+
+    def architecture(self):
+        return ['MVT']
+
+    def funFact(self):
+        return ['There are two ways to write error-free programs; only the third one works']  
 ```
 ## Misc.
 ### Profile Stats.
