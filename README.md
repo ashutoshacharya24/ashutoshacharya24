@@ -1,5 +1,4 @@
-## Hi there 👋, 
-Glad to see you here
+## Hi there 👋, Glad to see you here
 
 I am Ashutosh Acharya - @ashutoshacharya24
 
