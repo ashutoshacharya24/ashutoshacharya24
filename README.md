@@ -1,16 +1,21 @@
-# Hi there 👋, I am Ashutosh Acharya - @ashutoshacharya24
+## Hi there 👋, 
+Glad to see you here
+
+I am Ashutosh Acharya - @ashutoshacharya24
 
 
 
 
-- 🔭 I’m currently working on:</b> Python, PostgreSQL, Django, Django REST
-- 🌱 I’m currently learning:</b> GoLang, GraphQL
-- 👯 I’m looking to collaborate on contributing to python based projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about:</b> Python and Django
+- 🔭 I’m currently working on:</b> Python, PostgreSQL, Django, Django REST.
+- 🌱 I’m currently learning:</b> Go, GraphQL.
+- 👯 I’m looking to collaborate on contributing to python based projects.
+- 💬 Ask me about Python and Django, I am happy to help.
 - 📫 How to reach me: [ashutoshacharya.com](http://ashutoshacharya.com/)
 - 😄 Pronouns: He | Him
-- ⚡ Fun fact: It’s all 0’s and 1’s
+- ⚡ Fun fact: It’s all 0’s and 1’s.
+
+## How I Work
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating(hopefully) just enough process. If I'm too much in my head, feel free to nudge me to share what's in my brain 😁.
 
 ## ✨ My Expertise
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
