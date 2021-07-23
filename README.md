@@ -83,6 +83,6 @@ class ashutoshAcharya(SpaceTime):
    <a href="https://www.instagram.com/ashu_liku/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://twitter.com/Ashutos84779312"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://github.com/ashutoshacharya24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-   <p> <img src="https://komarev.com/ghpvc/?username=ashutoshacharya24&label=Profile%20views&color=6805D3&style=flat" alt="ashutoshacharya24" /> </p> 
+    
 </div>
  
