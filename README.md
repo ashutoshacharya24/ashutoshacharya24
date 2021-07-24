@@ -6,7 +6,7 @@ I am Ashutosh Acharya - @ashutoshacharya24
 
 
 
-- 🔭 I’m currently working on:</b> Python, PostgreSQL, Django, Django REST.
+- 🔭 I’m currently working on:</b> Python, PostgreSQL, Django, Django REST. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning:</b> Go, GraphQL.
 - 👯 I’m looking to collaborate on contributing to python based projects.
 - 💬 Ask me about Python and Django, I am happy to help.
