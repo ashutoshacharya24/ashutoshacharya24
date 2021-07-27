@@ -65,6 +65,14 @@ class ashutoshAcharya(SpaceTime):
     def funFact(self):
         return ['There are two ways to write error-free programs; only the third one works']  
 ```
+
+
+<p align="center">
+    <a href="https://github.com/ashutoshacharya24"><img src= "https://github.com/ashutoshacharya24/ashutoshacharya24/blob/output/github-contribution-grid-snake.gif"/></a> 
+</p>
+
+
+
 ## 🌟 Misc.
 
 <table>
