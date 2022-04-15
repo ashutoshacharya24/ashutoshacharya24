@@ -50,10 +50,10 @@ class ashutoshAcharya(SpaceTime):
         return ['GitHub', 'GitLab']
         
     def hosting(self):
-        return ['Heroku', 'Firebase'] 
+        return ['Heroku'] 
 
     def askMeAbout(self):
-        return ['Backedn DEV', 'Tech', 'Micro services'] 
+        return ['Backedn DEV', 'Graphene'] 
 
     def database(self):
         return ['SQLite3', 'SQL','PostgreSQL']
