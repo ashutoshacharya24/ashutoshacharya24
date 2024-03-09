@@ -10,7 +10,7 @@ I am Ashutosh Acharya - @ashutoshacharya24
 - 🌱 I’m currently learning:</b> Data fullstack engineer.
 - 👯 I’m looking to collaborate on contributing to python based projects.
 - 💬 Ask me about Python, I am happy to help.
-- 📫 How to reach me: [ashutoshacharya.com](http://ashutoshacharya.com/)
+- 📫 How to reach me: ashutoshacharya24@gmail.com
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
